@@ -49,7 +49,7 @@ Successfully completed the **Kaggle Python course**.
 ## 🚀 How to Run
 Clone the repo and run any file directly:
 
-```bash
+``bash
 git clone https://github.com/bhoomijn/kaggle-learn-certificates.git
 cd kaggle-learn-certificates/booleans-and-conditionals
 python q2_to_smash_logging.py
