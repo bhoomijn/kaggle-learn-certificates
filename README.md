@@ -12,6 +12,7 @@ Successfully completed the **Kaggle Python course**.
 
 [View Certificate Online](https://www.kaggle.com/learn/certification/bhoomijn/python)
 
+
 ---
 
 ## 📂 Repository Structure  
@@ -68,9 +69,11 @@ Suggestions for improvement are welcome via Issues or Pull Requests.
 ---
 
 👤 Author
+
 Bhoomi Jain
 
-🌐 
+🌐 [My Kaggle Profile](https://www.kaggle.com/bhoomijn)
+
 
 💼 www.linkedin.com/in/
 bhoomi-jain-3287803b5
