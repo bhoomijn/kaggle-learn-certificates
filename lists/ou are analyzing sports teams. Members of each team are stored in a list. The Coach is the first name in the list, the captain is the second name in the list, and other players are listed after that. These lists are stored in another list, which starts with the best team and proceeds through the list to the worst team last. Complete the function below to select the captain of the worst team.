@@ -1,0 +1,33 @@
+# Lists - Q2
+# Select the captain of the worst team
+
+def captain_of_worst_team(teams):
+    """Return the captain of the worst team.
+    
+    Parameters:
+    teams (list of lists): Each inner list represents a team.
+                           First element = Coach, second = Captain, rest = Players.
+                           teams[0] = best team, teams[-1] = worst team.
+    
+    Example:
+    >>> teams = [
+    ...     ["CoachA", "CaptainA", "Player1", "Player2"],   # Best team
+    ...     ["CoachB", "CaptainB", "Player3", "Player4"]    # Worst team
+    ... ]
+    >>> captain_of_worst_team(teams)
+    'CaptainB'
+    """
+    return teams[-1][1]
+
+
+# Example usage
+teams = [
+    ["CoachA", "CaptainA", "Player1", "Player2"],   # Best team
+    ["CoachB", "CaptainB", "Player3", "Player4"],   # Worst team
+]
+
+losing_team_captain = captain_of_worst_team(teams)
+print("Worst team captain:", losing_team_captain)   # Expected output: CaptainB
+
+# Kaggle grader check (keep only in Kaggle notebook)
+q2.check()
