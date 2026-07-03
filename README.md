@@ -57,14 +57,17 @@ git clone https://github.com/bhoomijn/kaggle-learn-certificates.git
 cd kaggle-learn-certificates/booleans-and-conditionals
 python q2_to_smash_logging.py
 
+---
+
 
 🤝 Contributions
 This repo is primarily for learning and practice.
 Suggestions for improvement are welcome via Issues or Pull Requests.
 
+---
 
-👤 Author
-Bhoomi Jain (Devendra)
+##👤 Author
+Bhoomi Jain
 
 🌐 
 
