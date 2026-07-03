@@ -9,7 +9,6 @@ It highlights my Python fundamentals, clean coding style, and structured problem
 ## 🏆 Certificate  
 Successfully completed the **Kaggle Python course**.  
 
-![Certificate](certificate.png)
 
 [View Certificate Online](https://www.kaggle.com/learn/certification/bhoomijn/python)
 
