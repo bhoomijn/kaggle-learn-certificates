@@ -1,4 +1,3 @@
-
 # 📜 Kaggle Learn Certificates – Python Track  
 
 This repository contains my **Kaggle Learn Python course solutions** along with the official course completion certificate.  
@@ -9,16 +8,17 @@ It highlights my Python fundamentals, clean coding style, and structured problem
 ## 🏆 Certificate  
 Successfully completed the **Kaggle Python course**.  
 
+![Certificate](certificate.png)
 
-[View Certificate Online](https://www.kaggle.com/learn/certification/bhoomijn/python)
-
+🔗 [View Certificate Online](https://www.kaggle.com/learn/certification/bhoomijn/python)  
+🔗 [My Kaggle Profile](https://www.kaggle.com/bhoomijn)
 
 ---
 
 ## 📂 Repository Structure  
 
 
-kaggle-learn-certificates/
+aggle-learn-certificates/
 │
 ├── syntax-variables-numbers/
 ├── functions-and-help/
@@ -53,29 +53,24 @@ kaggle-learn-certificates/
 
 ## 🚀 How to Run  
 Clone the repo and run any file directly:  
-``bash
+
+```
 git clone https://github.com/bhoomijn/kaggle-learn-certificates.git
 cd kaggle-learn-certificates/booleans-and-conditionals
 python q2_to_smash_logging.py
+```
 
----
 
-
-🤝 Contributions
-
+## 🤝 Contributions
 This repo is primarily for learning and practice.
 Suggestions for improvement are welcome via Issues or Pull Requests.
 
----
 
 👤 Author
+Bhoomi Jain (Devendra)
 
-Bhoomi Jain
+📧 Email: bhoomijn4@gmail.com
 
-🌐 [My Kaggle Profile](https://www.kaggle.com/bhoomijn)
+🌐 Kaggle: https://www.kaggle.com/bhoomijn
 
-
-💼 www.linkedin.com/in/
-bhoomi-jain-3287803b5
-
-📧 Contact: bhoomijn4@gmail.com
+💼 LinkedIn: https://www.linkedin.com
