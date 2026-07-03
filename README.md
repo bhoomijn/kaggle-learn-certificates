@@ -50,23 +50,32 @@ aggle-learn-certificates/
 - Kaggle Learn for guided exercises  
 
 ---
-
 ## 🚀 How to Run  
-Clone the repo and run any file directly:  
 
-```
-git clone https://github.com/bhoomijn/kaggle-learn-certificates.git
+Follow these simple steps to run any solution file from this repository:
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/bhoomijn/kaggle-learn-certificates.git
+
+2. Navigate to the folder of the exercise  
+Example:
 cd kaggle-learn-certificates/booleans-and-conditionals
+
+3. Run the Python file  
+Example:
 python q2_to_smash_logging.py
-```
+
+---
 
 
 ## 🤝 Contributions
 This repo is primarily for learning and practice.
 Suggestions for improvement are welcome via Issues or Pull Requests.
 
+---
 
-👤 Author
+##👤 Author
 Bhoomi Jain (Devendra)
 
 📧 Email: bhoomijn4@gmail.com
