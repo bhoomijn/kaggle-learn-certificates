@@ -8,7 +8,7 @@ It highlights my Python fundamentals, clean coding style, and structured problem
 ## 🏆 Certificate  
 Successfully completed the **Kaggle Python course**.  
 
-![Certificate](certificate.png)
+
 
 🔗 [View Certificate Online](https://www.kaggle.com/learn/certification/bhoomijn/python)  
 🔗 [My Kaggle Profile](https://www.kaggle.com/bhoomijn)
@@ -54,18 +54,16 @@ aggle-learn-certificates/
 
 Follow these simple steps to run any solution file from this repository:
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/bhoomijn/kaggle-learn-certificates.git
+```bash
+# 1. Clone the repository
+git clone https://github.com/bhoomijn/kaggle-learn-certificates.git
 
-2. Navigate to the folder of the exercise  
-Example:
+# 2. Navigate to the folder of the exercise
 cd kaggle-learn-certificates/booleans-and-conditionals
 
-3. Run the Python file  
-Example:
+# 3. Run the Python file
 python q2_to_smash_logging.py
-
+```
 ---
 
 
@@ -75,8 +73,8 @@ Suggestions for improvement are welcome via Issues or Pull Requests.
 
 ---
 
-##👤 Author
-Bhoomi Jain (Devendra)
+👤 Author
+Bhoomi Jain 
 
 📧 Email: bhoomijn4@gmail.com
 
