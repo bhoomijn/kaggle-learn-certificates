@@ -61,12 +61,13 @@ python q2_to_smash_logging.py
 
 
 🤝 Contributions
+
 This repo is primarily for learning and practice.
 Suggestions for improvement are welcome via Issues or Pull Requests.
 
 ---
 
-##👤 Author
+👤 Author
 Bhoomi Jain
 
 🌐 
